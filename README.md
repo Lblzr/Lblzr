@@ -1,23 +1,21 @@
 - 👋 Hi, I’m @Lblzr
-  a beginner
+  an intermediate-advanced programmer
 
 - 👀 I’m interested in
-  Anything math and programming
-  visuals
-  GUI's
+  Anything math or programming
+  Especially AI
 
 - 🌱 I’m currently learning
   Python
   C#
-  Logic in general
+  Java
 
 - 💞️ I’m looking to collaborate on
-  Noting atm
+  Nothing atm
 
 - 📫 How to reach me
-  Discord: blzr#1111
-  blzr on Youtube
-  email: (will create one specifically for things like this (soon) )
+  Discord: blzr
+  email: 81269219+Lblzr@users.noreply.github.com
 
 <!---
 Lblzr/Lblzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
