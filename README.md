@@ -15,7 +15,7 @@
 
 - 📫 How to reach me
   Discord: blzr
-  email: 81269219+Lblzr@users.noreply.github.com
+  // Email: 81269219+Lblzr@users.noreply.github.com
 
 <!---
 Lblzr/Lblzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
